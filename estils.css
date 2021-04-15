@@ -1,0 +1,93 @@
+body{
+  background-image: url("../menu github/imagenes/marioclouds.gif");
+
+
+}
+
+
+
+
+
+
+#titulo{
+
+  font-size: 100px;
+  font-style: italic;
+  font-family: sans-serif;
+  color: orange;
+  text-decoration: underline;
+  -webkit-text-stroke: black 3px;
+  text-align: center;
+}
+
+.cuadros {
+
+
+
+
+  width: 150px;
+  height: 150px;
+  border-color: black;
+  border-radius: 100%;
+  background-color: orange;
+  float: left;
+  margin-left: 100px;
+  margin-top: 100px;
+
+}
+
+#uno {
+
+
+
+}
+
+#dos {
+
+
+
+}
+#tres {
+
+
+
+}
+#cuatro {
+
+
+
+}
+
+#cinco {
+
+
+
+}
+#seis {
+
+
+
+}
+#siete {
+
+
+}
+#ocho {
+
+
+
+}
+#nueve {
+
+
+}
+#diez {
+
+}
+
+#nube {
+margin-top: 600px;
+transform: rotateY(180deg);
+margin-right: 1700px;
+position: relative;
+}
